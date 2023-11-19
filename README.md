@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Nmuckler/Nmuckler/main/Nathan1.png" width="220" height="220"/><br/><br/>
   <samp>
     Hey, I'm Nathan 👋 <br/>
-    Computer science student with a hobby for game development<br/>
+    💻 Computer science student with a hobby for game development<br/>
     Web Dev Intern @ NCSU ECE WolfTech IT<br/>
     :briefcase: Portfolio... https://nmuckler.github.io <br/>
     :pancakes: Recent Stack... C++, C, Java, PHP, JavaScript <br/>
