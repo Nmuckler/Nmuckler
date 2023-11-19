@@ -3,10 +3,10 @@
   <samp>
     Hey, I'm Nathan 👋 <br/>
     💻 Computer science student with a hobby for game development<br/>
-    Web Dev Intern @ NCSU ECE WolfTech IT<br/>
-    :briefcase: Portfolio... https://nmuckler.github.io <br/>
-    :pancakes: Recent Stack... C++, C, Java, PHP, JavaScript <br/>
-    :mailbox: <a href="mailto:nathanmuckler@gmail.com">Email</a> <br/>
+    🌐 Web Dev Intern @ NCSU ECE WolfTech IT<br/>
+    💼 Portfolio... https://nmuckler.github.io <br/>
+    🥞 Recent Stack... C++, C, Java, PHP, JavaScript <br/>
+    📫 <a href="mailto:nathanmuckler@gmail.com">Email</a> <br/>
     ----- <br/>
     :mag: Currently seeking web and software development positions/internships in the RTP area for summer 2024. Also looking to design games or just make professional connections.
   </samp>
