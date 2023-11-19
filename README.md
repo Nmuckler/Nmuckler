@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nmuckler/Nmuckler/main/Nathan.png" width="220" height="220"/><br/><br/>
+  <img src="https://raw.githubusercontent.com/Nmuckler/Nmuckler/main/Nathan.png" width="220" height="250"/><br/><br/>
   <samp>
     Hey, I'm Nathan 👋 <br/>
     Computer science student with a hobby for game development<br/>
