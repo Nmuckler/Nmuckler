@@ -8,7 +8,7 @@
     🥞 Recent Stack... C++, C, Java, PHP, JavaScript <br/>
     📫 <a href="mailto:nathanmuckler@gmail.com">Email</a> <br/>
     ----- <br/>
-    :mag: Currently seeking web and software development positions/internships for summer 2024. Also looking to design games or just make professional connections.
+    :mag: Currently seeking software and game development positions/internships for summer 2024. Also looking to design games or just make professional connections.
   </samp>
 </p>
 
