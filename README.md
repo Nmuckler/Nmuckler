@@ -4,7 +4,7 @@
     Hey, I'm Nathan 👋 <br/>
     💻 Computer science student with a hobby for game development<br/>
     🌐 Web Dev Intern @ NCSU ECE WolfTech IT<br/>
-    💼 Portfolio... https://nathanmuckler.wixsite.com/nathan-projects <br/>
+    💼 Portfolio... https://nathanmuckler.wixsite.com/nathan-portfolio/projects <br/>
     🥞 Recent Stack... C++, C, Java, PHP, JavaScript <br/>
     📫 <a href="mailto:nathanmuckler@gmail.com">Email</a> <br/>
     ----- <br/>
